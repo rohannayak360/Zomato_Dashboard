@@ -7,7 +7,7 @@ Created by **Rohan Nayak**
 ## 🖼️ Main Dashboard Screenshot  
 > *(Replace the image below with your main dashboard image in GitHub)*
 
-![Zomato Dashboard](screenshot.png)
+![Zomato Dashboard](Screenshot.png)
 
 ---
 
